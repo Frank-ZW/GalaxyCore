@@ -67,7 +67,7 @@ public class PlayerListeners implements Listener {
 	 * the words in the list but they were commonly used racial slurs that players often used
 	 * to harass others.
 	 */
-	private final List<String> blacklistedWords = Arrays.asList("nigger", "nigga", "faggot", "faggit");
+	private final List<String> blacklistedWords = Arrays.asList(/* Censored words would go here */);
 
 	/*
 	 * Executor service to handle PlayerData information asynchronously and to minimize overhead on the main
