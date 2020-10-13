@@ -1,0 +1,6 @@
+name: GalaxyCore
+version: ${project.version}
+main: net.craftgalaxy.galaxycore.CorePlugin
+api-version: 1.16
+author: Frank
+depend: [Towny, EssentialsChat, TownyChat, mcMMO]
