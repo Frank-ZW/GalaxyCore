@@ -1,0 +1,6 @@
+name: GalaxyCore
+main: org.craftgalaxy.galaxycore.proxy.CoreProxyPlugin
+version: ${project.version}
+author: Frank
+softdepends:
+  - AdvancedBan

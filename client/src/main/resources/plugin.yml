@@ -1,0 +1,21 @@
+name: GalaxyCore
+main: org.craftgalaxy.galaxycore.client.CorePlugin
+version: ${project.version}
+api-version: 1.17
+author: Frank
+softdepend:
+  - Towny
+  - TownyChat
+  - mcMMO
+  - dynmap
+commands:
+  pings:
+    description: Enable or disable your in-game pings.
+  mutechat:
+    description: Mute or unmute the global chat.
+  slowchat:
+    description: Enable or disable slow mode.
+  clearchat:
+    description: Clears the global chat.
+  miners:
+    description: View players mining below a certain Y-level

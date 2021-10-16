@@ -1,0 +1,30 @@
+connection-settings:
+  proxy-server:
+    name: lobby
+    host: "localhost"
+    port: 25561
+  plugin-connection:
+    host: "localhost"
+    port: 9048
+
+chat-filter-settings:
+  slow-mode:
+    default-duration: 10
+    donator-duration: 5
+  foreign-words:
+    - la
+    - vamos
+    - estar
+    - dos
+    - estamos
+    - estoy
+    - estabamos
+    - nosotros
+    - vosotros
+    - en
+    - que
+    - solamente
+  blacklisted-words:
+    - nigger
+    - nigga
+    - sped
